@@ -77,7 +77,7 @@ const foods = [
   { id: 2, name: "Chuối ngự Đại Hoàng", location: "Lý Nhân", image: "https://files.catbox.moe/2io95a.jpg", description: "Loại chuối từng được dùng để tiến vua. Quả nhỏ nhắn, vỏ mỏng tang, ruột vàng ươm, khi chín tỏa hương thơm nức và có vị ngọt thanh tao." },
   { id: 3, name: "Bánh đa Kiện Khê", location: "Thanh Liêm", image: "https://files.catbox.moe/5ovvwh.png", description: "Bánh đa được nướng giòn rụm, thơm lừng mùi vừng và lạc. Thường được thưởng thức cùng chuối tiêu chín hoặc kẹo lạc tạo nên hương vị dân dã độc đáo." },
   { id: 4, name: "Mắm cáy Bình Lục", location: "Bình Lục", image: "https://files.catbox.moe/y8h39b.jpg", description: "Đặc sản dân dã mang đậm hồn quê. Mắm có màu đỏ nâu bắt mắt, vị đậm đà, thơm mùi cáy đặc trưng, là thức chấm tuyệt vời cho các món rau luộc, thịt luộc." },
-  { id: 5, name: "Bánh cuốn Phủ Lý", location: "Phủ Lý", image: "https://files.catbox.moe/n16pzm.webp", description: "Loại rượu được chưng cất từ gạo nếp ủ men ta truyền thống gồm 36 vị thuốc Bắc. Rượu trong vắt, uống êm dịu, hương thơm nồng nàn và đặc biệt không gây đau đầu." },
+  { id: 5, name: "Bánh cuốn Phủ Lý", location: "Phủ Lý", image: "https://files.catbox.moe/n16pzm.webp", description: "Bánh tráng mỏng mướt, dai mềm, phủ lớp hành phi thơm nức. Ăn kèm với thịt nạc vai nướng than hoa vàng ruộm, đậm đà và nước chấm chua ngọt đặc trưng. Một thức quà tinh túy, đậm đà phong vị đất Hà Nam." },
 ];
 
 // --- Components ---
