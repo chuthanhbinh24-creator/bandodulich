@@ -22,7 +22,7 @@ const touristSpots = [
     location: "Kim Bảng", 
     x: 19.8, 
     y: 48.9, 
-    image: "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/0vvx65.webp", 
     description: "Được mệnh danh là Vịnh Hạ Long trên cạn, Tam Chúc là khu du lịch tâm linh lớn nhất thế giới với cảnh quan thiên nhiên hùng vĩ, non nước hữu tình." 
   },
   { 
@@ -31,7 +31,7 @@ const touristSpots = [
     location: "Thanh Liêm", 
     x: 40, 
     y: 82, 
-    image: "https://images.unsplash.com/photo-1540202403-b7ae60f6e6c9?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/3rgue5.jpg", 
     description: "Ngôi chùa mang vẻ đẹp thanh tịnh, yên bình, ẩn mình giữa rừng thông. Nơi đây nổi tiếng với kiến trúc độc đáo và không gian thiền định tuyệt vời." 
   },
   { 
@@ -40,16 +40,16 @@ const touristSpots = [
     location: "Kim Bảng", 
     x: 22.7, 
     y: 40.6, 
-    image: "https://images.unsplash.com/photo-1600011689027-0b66208c5011?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/6c41lj.webp", 
     description: "Nổi tiếng với câu nói 'Vắng như chùa Bà Đanh', ngôi chùa có lịch sử lâu đời, nằm soi bóng bên dòng sông Đáy thơ mộng." 
   },
   { 
     id: 4, 
-    name: "Chùa Long Đọi Sơn", 
+    name: "Ngũ Động Thi Sơn", 
     location: "Duy Tiên", 
     x: 55.7, 
     y: 22.2, 
-    image: "https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/e95erb.jpg", 
     description: "Ngôi chùa cổ kính nằm trên đỉnh núi Đọi, được xây dựng từ thời Lý. Nơi đây lưu giữ bảo vật quốc gia bia tháp Sùng Thiện Diên Linh." 
   },
   { 
@@ -58,36 +58,18 @@ const touristSpots = [
     location: "Lý Nhân", 
     x: 74.4, 
     y: 37, 
-    image: "https://images.unsplash.com/photo-1582650625119-3a31f8fa2699?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/udrwlp.jpg", 
     description: "Nơi thờ Hưng Đạo Đại Vương Trần Quốc Tuấn. Đền nổi tiếng với lễ hội phát lương đầu năm thu hút hàng vạn du khách thập phương." 
   },
   { 
-    id: 6, 
-    name: "Đền Lảnh Giang", 
-    location: "Duy Tiên", 
-    x: 78, 
-    y: 30, 
-    image: "https://images.unsplash.com/photo-1560613240-34827011d670?q=80&w=1000&auto=format&fit=crop", 
-    description: "Ngôi đền linh thiêng nằm bên bờ sông Hồng, thờ ba vị tướng thời Hùng Vương. Kiến trúc đền bề thế, uy nghi." 
-  },
-  { 
-    id: 7, 
+    id: , 
     name: "Chùa Bầu", 
     location: "Phủ Lý", 
     x: 39, 
     y: 41.4, 
-    image: "https://images.unsplash.com/photo-1540202403-b7ae60f6e6c9?q=80&w=1000&auto=format&fit=crop", 
+    image: "https://files.catbox.moe/j7d9jz.jfif", 
     description: "Ngôi chùa nằm ngay trung tâm thành phố Phủ Lý, có lịch sử lâu đời và không gian thanh tịnh giữa lòng đô thị." 
   },
-  { 
-    id: 8, 
-    name: "Từ đường Nguyễn Khuyến", 
-    location: "Bình Lục", 
-    x: 69.8, 
-    y: 58.8, 
-    image: "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=1000&auto=format&fit=crop", 
-    description: "Nơi thờ tự và lưu giữ những kỷ vật về Tam Nguyên Yên Đổ Nguyễn Khuyến, một nhà thơ lớn của dân tộc." 
-  }
 ];
 
 const foods = [
