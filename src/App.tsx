@@ -73,11 +73,11 @@ const touristSpots = [
 ];
 
 const foods = [
-  { id: 1, name: "Cá kho làng Vũ Đại", location: "Lý Nhân", image: "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1000&auto=format&fit=crop", description: "Món cá kho truyền thống trứ danh, được kho trong niêu đất từ 12-16 tiếng với gia vị đặc trưng. Thịt cá chắc nịch, xương nhừ tơi, hương vị đậm đà khó quên." },
-  { id: 2, name: "Chuối ngự Đại Hoàng", location: "Lý Nhân", image: "https://images.unsplash.com/photo-1603833665858-e61d17a86224?q=80&w=1000&auto=format&fit=crop", description: "Loại chuối từng được dùng để tiến vua. Quả nhỏ nhắn, vỏ mỏng tang, ruột vàng ươm, khi chín tỏa hương thơm nức và có vị ngọt thanh tao." },
-  { id: 3, name: "Bánh đa Kiện Khê", location: "Thanh Liêm", image: "https://images.unsplash.com/photo-1598514982205-f36b96d1e8d4?q=80&w=1000&auto=format&fit=crop", description: "Bánh đa được nướng giòn rụm, thơm lừng mùi vừng và lạc. Thường được thưởng thức cùng chuối tiêu chín hoặc kẹo lạc tạo nên hương vị dân dã độc đáo." },
-  { id: 4, name: "Mắm cáy Bình Lục", location: "Bình Lục", image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1000&auto=format&fit=crop", description: "Đặc sản dân dã mang đậm hồn quê. Mắm có màu đỏ nâu bắt mắt, vị đậm đà, thơm mùi cáy đặc trưng, là thức chấm tuyệt vời cho các món rau luộc, thịt luộc." },
-  { id: 5, name: "Rượu làng Vọc", location: "Bình Lục", image: "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?q=80&w=1000&auto=format&fit=crop", description: "Loại rượu được chưng cất từ gạo nếp ủ men ta truyền thống gồm 36 vị thuốc Bắc. Rượu trong vắt, uống êm dịu, hương thơm nồng nàn và đặc biệt không gây đau đầu." },
+  { id: 1, name: "Cá kho làng Vũ Đại", location: "Lý Nhân", image: "https://files.catbox.moe/maptec.jpg", description: "Món cá kho truyền thống trứ danh, được kho trong niêu đất từ 12-16 tiếng với gia vị đặc trưng. Thịt cá chắc nịch, xương nhừ tơi, hương vị đậm đà khó quên." },
+  { id: 2, name: "Chuối ngự Đại Hoàng", location: "Lý Nhân", image: "https://files.catbox.moe/2io95a.jpg", description: "Loại chuối từng được dùng để tiến vua. Quả nhỏ nhắn, vỏ mỏng tang, ruột vàng ươm, khi chín tỏa hương thơm nức và có vị ngọt thanh tao." },
+  { id: 3, name: "Bánh đa Kiện Khê", location: "Thanh Liêm", image: "https://files.catbox.moe/5ovvwh.png", description: "Bánh đa được nướng giòn rụm, thơm lừng mùi vừng và lạc. Thường được thưởng thức cùng chuối tiêu chín hoặc kẹo lạc tạo nên hương vị dân dã độc đáo." },
+  { id: 4, name: "Mắm cáy Bình Lục", location: "Bình Lục", image: "https://files.catbox.moe/y8h39b.jpg", description: "Đặc sản dân dã mang đậm hồn quê. Mắm có màu đỏ nâu bắt mắt, vị đậm đà, thơm mùi cáy đặc trưng, là thức chấm tuyệt vời cho các món rau luộc, thịt luộc." },
+  { id: 5, name: "Bánh cuốn Phủ Lý", location: "Phủ Lý", image: "https://files.catbox.moe/n16pzm.webp", description: "Loại rượu được chưng cất từ gạo nếp ủ men ta truyền thống gồm 36 vị thuốc Bắc. Rượu trong vắt, uống êm dịu, hương thơm nồng nàn và đặc biệt không gây đau đầu." },
 ];
 
 // --- Components ---
