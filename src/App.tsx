@@ -62,7 +62,7 @@ const touristSpots = [
     description: "Nơi thờ Hưng Đạo Đại Vương Trần Quốc Tuấn. Đền nổi tiếng với lễ hội phát lương đầu năm thu hút hàng vạn du khách thập phương." 
   },
   { 
-    id: , 
+    id: 6, 
     name: "Chùa Bầu", 
     location: "Phủ Lý", 
     x: 39, 
